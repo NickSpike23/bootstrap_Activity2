@@ -54,6 +54,7 @@ body{
 
 /* Carousel */
 #gameCarousel{
+  margin-top: 65px;
   border: 2px solid var(--sbr-gold);
   border-radius: 14px;
   overflow: hidden;
